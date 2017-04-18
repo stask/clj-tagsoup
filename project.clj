@@ -1,4 +1,4 @@
-(defproject clj-tagsoup "0.3.0"
+(defproject stask/clj-tagsoup "0.3.1"
   :description "A HTML parser for Clojure."
   :dependencies [[org.clojure/clojure "1.2.0"]
                  [org.clojure/data.xml "0.0.8"]
