@@ -1,4 +1,4 @@
-[![Clojars Project](http://clojars.org/org.clojars.stask/clj-tagsoup/latest-version.svg)](http://clojars.org/org.clojars.stask/clj-tagsoup)
+[![Clojars Project](http://clojars.org/stask/clj-tagsoup/latest-version.svg)](http://clojars.org/stask/clj-tagsoup)
 
 clj-tagsoup
 ===========
@@ -50,7 +50,7 @@ Example
 *project.clj*:
 ```
 (defproject clj-tagsoup-example "0.0.1"
-  :dependencies [[org.clojars.stask/clj-tagsoup "0.3.1"]])
+  :dependencies [[stask/clj-tagsoup "0.3.1"]])
 ```
 
 `lein repl`:
